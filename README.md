@@ -1,4 +1,4 @@
-# Vega It izazov za avgust 2022 
+# Vega IT izazov za avgust 2022 
 #
 
 (function () {
