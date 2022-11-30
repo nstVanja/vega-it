@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Studenti i stolice R</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <h1>Studenti i stolice</h1>
+
+    <div>
+      <h3>Unesi željeni broj studenata</h3>
+    </div>
+
+    <div id="ulaz">
+      <input type="number" id="brojStudenata" placeholder="Unesi" min="1" />
+      <button id="numBtn">Potvrdi</button>
+    </div>
+
+    <div id="podaci"></div>
+
+    <p id="task">
+      U hodniku je <i>N</i> stolica poređano jedna do druge. Pored svake stolice
+      stoji student. Nastavnik prolazi hodnikom i prstom pokazuje na studenta
+      koji treba da sedne. U prvom prolazu pokaže na svakog studenta, tako da do
+      kraja njegovog prolaza svi studenti sede. U drugom prolazu pokaže na
+      svakog drugog studenta da ustane, a u trećem prolazu na svakog trećeg
+      studenta da promeni svoje stanje (ako sedi da ustane i ako stoji da
+      sedne). Nastavnik ponavlja ovaj proces do <i>N</i>-tog prolaza tako što u
+      svakom prolazu <i>i</i> govori svakom <i>i</i>-tom studentu da promeni
+      svoje stanje. U poslednjem, <i>N</i>-tom, prolazu samo studentu na
+      poziciji <i>N</i> govori da promeni svoje stanje. Koliko studenata sedi
+      posle poslednjeg prolaza? Napiši program koji računa koliko će studenata
+      sedeti za proizvoljan broj <i>N</i>.
+    </p>
+
+    <script src="./script/script.js"></script>
+  </body>
+</html>
