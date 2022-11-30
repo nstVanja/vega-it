@@ -1,6 +1,6 @@
 ### Vega IT izazov
 ![Logo](https://github.com/nstVanja/vega-it/blob/a35aa3049f8a62cdf7f8d6b6445a6afe969fb35d/decembar%202022/makadam/img/kisa.png)
-#### Treći zadatak
+#### Treći zadatak - Kiša na putu
 Juče je padala kiša i napravila je pometnju na makadamskom putu formirajući bare.
 Svaki makadamski put je opisan pomoću reljefnog prikaza kvadratića, gde je crni kvadratić zemlja, a beli prazan prostor.
 
