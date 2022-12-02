@@ -36,3 +36,4 @@ Napisati algoritam koji prikazuje biljku na osnovu 4 zadata parametra: cvet, vod
 
 ### Rešenje:
 
+![App Screenshot](https://github.com/nstVanja/vega-it/blob/82cbdb5e196fff0dc3a76989fb9d5b188b14230a/decembar%202022/cvece/img/cvece.jpg)
