@@ -10,4 +10,4 @@
 
 Rešenje:
 
-![App Screenshot](https://github.com/nstVanja/vega-it/blob/24db2bcc7c60ae0bf07861fb7564ec04fd30b1dd/avgust%202022/img/logs-order.jpg)
+![App Screenshot](https://github.com/nstVanja/vega-it/blob/12ba8a7e52ec80d26e5ef657e3635f03b53573a3/avgust%202022/img/logs-order.jpg)
