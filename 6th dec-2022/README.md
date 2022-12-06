@@ -7,3 +7,6 @@ Na osnovu ovog koda ispisuje se ‘This is element #5’ kada se klikne na bilo 
 
 #### Rešenje:
 ![App Screenshot](https://github.com/nstVanja/vega-it/blob/080799f1293d70f564f00c228a5fe7be16b9d54c/6th%20dec-2022/img/dec-resenje.png)
+
+ - [REŠENJE](https://rawcdn.githack.com/nstVanja/vega-it/0393cffeb1d8acba86b6e4d4a946cd3720d4a70b/6th%20dec-2022/index.html)
+ 
