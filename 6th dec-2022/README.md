@@ -10,3 +10,8 @@ Na osnovu ovog koda ispisuje se ‘This is element #5’ kada se klikne na bilo 
 
  - [REŠENJE](https://rawcdn.githack.com/nstVanja/vega-it/0393cffeb1d8acba86b6e4d4a946cd3720d4a70b/6th%20dec-2022/index.html)
  
+![App Screenshot](https://github.com/nstVanja/vega-it/blob/324c5737974fc8c6b8eb55a769a8b9d8141b4020/6th%20dec-2022/img/dec-resenje1.png)
+
+![App Screenshot](https://github.com/nstVanja/vega-it/blob/324c5737974fc8c6b8eb55a769a8b9d8141b4020/6th%20dec-2022/img/dec-resenje2.png)
+
+![App Screenshot](https://github.com/nstVanja/vega-it/blob/324c5737974fc8c6b8eb55a769a8b9d8141b4020/6th%20dec-2022/img/dec-resenje3.png)
